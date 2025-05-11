@@ -21,3 +21,6 @@ Modificables
 
 # Resultados finales 
 
+Este es el codigo ya modificado implementado las funciones requeridas y su funcionamiento correcto 
+[`users_modificado`](https://github.com/braVM11504/Proyecyo-1-2/blob/main/users.py)
+
