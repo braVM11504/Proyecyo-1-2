@@ -7,11 +7,17 @@ Este es el servidor que desarrollé para el sistema de administración de parque
 -Asigna puestos libres automáticamente y evita repetirlos.
 -Guarda la información en un archivo .json.
 # Archivos utilizados
-No modificsbles:
-https://github.com/parrado/entrega1-proyecto-1-2025/blob/main/parking_server.py
-https://github.com/parrado/entrega1-proyecto-1-2025/blob/main/parking_client.py
+No modificables:
+
+-[`parking_server`](https://github.com/parrado/entrega1-proyecto-1-2025/blob/main/parking_server.py)
+
+-[`parking_client`](https://github.com/parrado/entrega1-proyecto-1-2025/blob/main/parking_client.py)
+
 Modificables
-https://github.com/parrado/entrega1-proyecto-1-2025/blob/main/users.pys 
-https://github.com/parrado/entrega1-proyecto-1-2025/blob/main/test_parking_client.py
+
+-[`users`](https://github.com/parrado/entrega1-proyecto-1-2025/blob/main/users.pys)
+
+-[`test_parking_test`](https://github.com/parrado/entrega1-proyecto-1-2025/blob/main/test_parking_client.py)
 
 # Resultados finales 
+
