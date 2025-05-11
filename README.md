@@ -24,5 +24,7 @@ Modificables
 Este es el codigo ya modificado implementado las funciones requeridas y su funcionamiento correcto 
 [`users_modificado`](https://github.com/braVM11504/Proyecyo-1-2/blob/main/users.py)
 
-#nota 
-Para que el codigo funcione correctamente se debe modificar la funcion sendQr 
+# nota 
+Para que el codigo funcione correctamente se debe modificar la funcion sendQr exactamene en la linea 179 y poner la direccion de la camara que se desea utilizar 
+![image](https://github.com/user-attachments/assets/83bf5f75-717e-482c-bafa-02a919cd1691)
+
